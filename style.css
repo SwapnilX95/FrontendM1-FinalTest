@@ -1,0 +1,12 @@
+.container-fluid
+
+{
+    display: flex;
+}
+
+
+.thead 
+{
+/* border-style: 0px; */
+border-bottom:solid;
+}
